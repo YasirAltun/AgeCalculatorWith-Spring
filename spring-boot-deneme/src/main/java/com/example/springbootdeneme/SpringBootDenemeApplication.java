@@ -8,6 +8,7 @@ public class SpringBootDenemeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootDenemeApplication.class, args);
+		//port olarak 8090 ı kullanın
 	}
 
 }
