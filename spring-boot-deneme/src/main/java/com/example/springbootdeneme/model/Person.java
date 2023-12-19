@@ -7,7 +7,7 @@ import java.time.LocalDate;
 public class Person {
     private LocalDate birthDate;
 
-        //getter ve setterlar
+        
     public LocalDate getBirthDate() {
         return birthDate;
     }
